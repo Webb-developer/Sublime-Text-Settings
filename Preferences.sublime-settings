@@ -1,0 +1,26 @@
+{
+	"caret_extra_width": 1.5,
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro.tmTheme",
+	"create_window_at_startup": false,
+	"drag_text": false,
+	"font_face": "consolas",
+	"font_size": 19,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": true,
+	"wrap_width": 80,
+	"theme": "Afterglow.sublime-theme"
+}
